@@ -25,4 +25,6 @@ class Main {
         " cups of coffee");
 
   }
+
+  /* It was impresive because I went from knowing nothing to ask info to the user in the first excersie */
 }
